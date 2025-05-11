@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Unreal Engine/The Gauntlet/The-Gauntlet/The_Gauntlet/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/Unreal Engine/The Gauntlet/The-Gauntlet/The_Gauntlet/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Unreal Engine/The Gauntlet/The-Gauntlet/The_Gauntlet/Content/The_Gauntlet/Testing.umap",
+				"D:/Unreal Engine/The Gauntlet/The-Gauntlet/The_Gauntlet/Content/The_Gauntlet/Levels/Testing.umap",
+				"D:/Unreal Engine/The Gauntlet/The-Gauntlet/The_Gauntlet/Content/Fab/Megascans/Surfaces/Worn_Pavement_uddhdb1fw/Medium/Floor_testing.uasset",
+				"D:/Unreal Engine/The Gauntlet/The-Gauntlet/The_Gauntlet/Content/Fab/Megascans/Surfaces/Worn_Pavement_uddhdb1fw/Medium/MI_uddhdb1fw.uasset",
+				"D:/Unreal Engine/The Gauntlet/The-Gauntlet/The_Gauntlet/Content/Fab/Megascans/Surfaces/Worn_Pavement_uddhdb1fw/Medium/T_uddhdb1fw_2K_B.uasset",
+				"D:/Unreal Engine/The Gauntlet/The-Gauntlet/The_Gauntlet/Content/Fab/Megascans/Surfaces/Worn_Pavement_uddhdb1fw/Medium/T_uddhdb1fw_2K_N.uasset",
+				"D:/Unreal Engine/The Gauntlet/The-Gauntlet/The_Gauntlet/Content/Fab/Megascans/Surfaces/Worn_Pavement_uddhdb1fw/Medium/T_uddhdb1fw_2K_ORM.uasset"
 			]
 		}
 	]
